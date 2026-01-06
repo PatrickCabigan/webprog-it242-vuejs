@@ -3,7 +3,7 @@ const app2 = Vue.createApp({
     return {
       manyFoods: [
         'https://www.w3schools.com/vue/img_burrito.svg',
-        'ihttps://www.w3schools.com/vue/img_salad.svg',
+        'https://www.w3schools.com/vue/img_salad.svg',
         'https://www.w3schools.com/vue/img_cake.svg',
         'https://www.w3schools.com/vue/img_soup.svg',
         'https://www.w3schools.com/vue/img_fish.svg',
