@@ -1,6 +1,6 @@
 <template>
   <h1>Food</h1>
-  <personal-profie/>
+  <personal-profile/>
   <food-item/>
   <food-item2/>
 </template>
