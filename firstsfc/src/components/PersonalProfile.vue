@@ -116,5 +116,5 @@ export default {
 
 <style scoped>
 /* Importing your external CSS file */
-@import "@/assets/css/PersonalProfile.css";
+@import "@/assets/css/personalprofile.css";
 </style>
