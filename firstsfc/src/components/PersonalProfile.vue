@@ -74,14 +74,14 @@
             <h2 class="h4 gold-text border-bottom pb-2 mb-4">RESOURCES</h2>
             <div class="row gy-3">
               <div class="col-md-6">
-                <p><strong>1. Gemini:</strong> AI partner for debugging.</p>
-                <p><strong>2. W3Schools:</strong> Reference for CSS/HTML.</p>
-                <p><strong>3. YouTube:</strong> Bootstrap tutorials.</p>
+                <p><strong>1. Gemini:</strong> AI partner for brainstorming and debugging.</p>
+                <p><strong>2. W3Schools:</strong> Primary reference for CSS/HTML tags.</p>
+                <p><strong>3. YouTube:</strong> Visual tutorials for Bootstrap layout.</p>
               </div>
               <div class="col-md-6">
-                <p><strong>4. StartBootstrap:</strong> Bare Template foundation.</p>
-                <p><strong>5. W3C Validator:</strong> Code error checking.</p>
-                <p><strong>6. ResponsiveTestTool:</strong> Mobile verification.</p>
+                <p><strong>4. StartBootstrap:</strong> Base Bare Template foundation.</p>
+                <p><strong>5. W3C Validator:</strong> Checking code for professional syntax.</p>
+                <p><strong>6. ResponsiveTestTool:</strong> Verifying mobile and desktop views.</p>
               </div>
             </div>
           </div>
@@ -114,7 +114,4 @@ export default {
 };
 </script>
 
-<style scoped>
-/* Importing your external CSS file */
-@import "@/assets/css/personalprofile.css";
-</style>
+<style src="./css/personalprofile.css"></style>
