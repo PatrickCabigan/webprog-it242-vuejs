@@ -109,6 +109,15 @@ export default {
   methods: {
     toggleTheme() {
       this.isDark = !this.isDark;
+      
+      const el = document.getElementById('page-body');
+      if (el) {
+        el.style.transition = "transform 0.1s ease";
+        el.style.transform = "scale(0.98)";
+        setTimeout(() => {
+          el.style.transform = "scale(1)";
+        }, 100);
+      }
     }
   }
 };
