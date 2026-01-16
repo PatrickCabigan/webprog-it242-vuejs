@@ -114,4 +114,4 @@ export default {
 };
 </script>
 
-<style src="./css/PersonalProfile.css" scoped></style>
+<style src="./css/personalprofile.css" scoped></style>
