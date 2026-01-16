@@ -1,5 +1,5 @@
 <template>
-  <div class="patatas">
+  <div class="labanos">
     <h2>{{ name }}</h2>
     <p>{{ message }}</p>
   </div>
@@ -17,11 +17,11 @@ export default {
 </script>
 
 <style>
- .patatas {
+.labanos {
     border: dashed black 1px;
     display: inline-block;
     margin: 10px;
     padding: 10px;
-    background-color: rgb(204, 167, 0);
+    background-color: rgb(208, 20, 255);
   }
 </style>
